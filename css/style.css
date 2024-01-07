@@ -1,0 +1,45 @@
+body {
+    font-family: 'Libre Caslon Display', serif;
+    background-color: aquamarine;
+}
+
+/* atas */
+.atas {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10vh;
+    background-position: center;
+}
+
+.cil {
+    text-align: center;
+    margin-top: 18%;
+    color: whitesmoke;
+}
+
+/* History */
+.hist{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.colo{
+    text-align: center;
+    margin-top: 20%;
+    color: whitesmoke;
+    margin-bottom: 25%;
+}
+
+.menu-text {
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.left {
+     margin-top: 20vh ;
+     padding-right: 100vh;
+
+}
